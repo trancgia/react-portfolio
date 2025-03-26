@@ -1,0 +1,42 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "R",
+        "imageSrc": "skills/r.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Github",
+        "imageSrc": "skills/github.png"
+    }
+]

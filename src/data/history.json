@@ -1,0 +1,18 @@
+[
+    {
+        "role": "UI/UX Designer",
+        "organization": "theCourseForum",
+        "startDate": "Aug. 2023",
+        "endDate": "June 2024",
+        "experiences": ["Used Figma to create high-fidelity wireframes for a course search site used by 20k+ UVA students", "Collaborated with dozens of other designers to design resuable components for ease of future development"],
+        "imageSrc": "history/tCF.png"
+    },
+    {
+        "role": "Frontend Developer",
+        "organization": "Project Code",
+        "startDate": "Aug. 2024",
+        "endDate": "Present",
+        "experiences": ["Utilizing React Native to create frontend UI for a mobile wallet application"],
+        "imageSrc": "history/projectCode.png"
+    }
+]
